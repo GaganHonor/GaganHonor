@@ -1,6 +1,6 @@
 # 💫About Me :
 <h1 align="center">Hey 🙏, I'm Gagan</h1>
-<h3 align="center">A 22 year old Full Stack Developer from the India</h3>
+<h3 align="center">Thanks for your Visit 💕</h3>
 
 - 🎯 I’m currently working on [Face-Id](https://github.com/)
 
