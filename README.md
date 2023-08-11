@@ -1,5 +1,5 @@
 # 💫About Me :
-<h1 align="center">Hey 🙏, I'm Gagan</h1>
+<h1 align="center">Namaste 🙏</h1>
 <h3 align="center">Thanks for your Visit 💕</h3>
 
 - 🎯 I’m currently working on [Face-Id](https://github.com/gaganhonor)
