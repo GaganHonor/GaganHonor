@@ -6,7 +6,7 @@
 
 - 🤖 I’m currently working on [Face-Id](https://github.com/gaganhonor)
 
-- 🔭 I'm learning AWS with Generative AI
+- 🐢 I'm learning AWS with Generative AI
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gaganhonor)
 
