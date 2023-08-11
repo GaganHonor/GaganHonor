@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gaganhonor)
 
-- 💬 Ask me about **Bots , AWS , WEBD**
+- 🤓 Ask me about **Bots , AWS , WEBD**
 
 - 📫 How to reach me **GaganHonor@outlook.com**
 
