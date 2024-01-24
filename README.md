@@ -1,12 +1,14 @@
 <div><a href="https://x.com/GaganHonor"><img src="readme/twitter.svg" width="19.5%" height=120 alt="Twitter GaganHonor"></a><a href="https://www.linkedin.com/in/GaganHonor/"><img src="readme/linkedin.svg" width="19.5%" height=120 alt="linkedIn Gagan "></a><a href="https://"><img src="readme/logo.svg" width="22%" height=120 alt="Gagan's Personal Site"></a><a href="https://www.youtube.com/@GaganHonor"><img src="readme/youtube.svg" width="19.5%" height=120 alt="YouTube GaganHonor"></a><a href="https://twitch.tv/GaganHonor"><img src="readme/twitch.svg" width="19.5%" height=120 alt="Twitch GaganHonor"></a></div>
 
+![image](https://github.com/GaganHonor/GaganHonor/assets/141204441/478785c8-14b4-4ac4-8dc3-dce44b3166b8)
+
   ```py
   
   print("I Like JJK ( And watch it when taking breaks after coding ")
   
   ```
 
-<div><img src="readme/hero.svg" width="100%" alt="Gagan with either thumbs up (for dark mode) or thumbs down (for light mode) with a speech bubble that reflects your usage of dark mode with support or light mode with disappointment"></div>
+<div><img src="readme/hero.svg" width="80%" alt="Gagan with either thumbs up (for dark mode) or thumbs down (for light mode) with a speech bubble that reflects your usage of dark mode with support or light mode with disappointment"></div>
 <div>
 
   
